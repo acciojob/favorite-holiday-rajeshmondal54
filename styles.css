@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+h1 {
+    color: #2c3e50;
+}
+p {
+    font-size: 1.1em;
+    color: #34495e;
+}
+ol, ul {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 10px;
+}
